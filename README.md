@@ -1,7 +1,7 @@
 <h1 align="center">Welcone 👋, I'm Vampire Kevin</h1>
 
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1085737544349663282/1095138558634901664/Kevin.png?ex=65e662c3&is=65d3edc3&hm=f5b0ec1101f064c3f93d9774cd7b5d2ad9412f74735c41cea6f88b6b6dcbc773&" width="300"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&weight=500&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=60&lines=Welcome+To+GitHub+profile.;Discord+Bots+Developer;Front-End+Developer" alt="Typing SVG" /></a>
     <p> V<strong>a</strong>mpire <strong>o</strong>n To<strong>p</strong>🧛🦇</p>
   <div id="badges">
 <a href="https://discord.com/users/917579853446926356">
