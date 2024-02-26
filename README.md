@@ -8,7 +8,6 @@
 
 ##  **About me**
 <br>
-
 - Hello, I'm Kevin, 15 year old, From Egypt specifically in Sohag
 - My favorite hobbies: JavaScript Developer, Web Developer, Content Creator YouTube & TikTok
 - My favorite games: PUBG Mobile
