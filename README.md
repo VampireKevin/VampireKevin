@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello I'm Kevin (Kevo)
 
-<!--
-**VampireKevin/VampireKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m interested in NodeJS
+- I’m currently learning ECMAScript6 ~~TypeScript~~
 
-Here are some ideas to get you started:
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discordjs,discord,vscode,md&perline=8)](https://github.com/sekkena)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## NPM Packages:
+
+- [dir-control](https://www.npmjs.com/package/dir-control)
+- [console-log.js](https://www.npmjs.com/package/console-log.js)
+
+```bash
+npm i dir-control console-log.js
+```
