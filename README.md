@@ -1,35 +1,35 @@
-<h1>Kevin Nabil </h1>
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=120&lines=Hey+guys+how+are+you..<3;let's+talk+about+me;Computer+Science+Student,;Front-End+Back-End+Web+Developer,;I+can+provide+services+related+to...;sites,+landing+page,+dashboard,+api,+etc...;Interested+to+learn+more+and+more.">
-</p>
+<h1 align="center">Welcone 👋, I'm Vampire Kevin</h1>
 
+<div id="header" align="center">
+  <img src="https://cdn.discordapp.com/attachments/1085737544349663282/1095138558634901664/Kevin.png?ex=65e662c3&is=65d3edc3&hm=f5b0ec1101f064c3f93d9774cd7b5d2ad9412f74735c41cea6f88b6b6dcbc773&" width="300"/>
+    <p> V<strong>a</strong>mpire <strong>o</strong>n To<strong>p</strong>🧛🦇</p>
+  <div id="badges">
+<a href="https://discord.com/users/917579853446926356">
+    <img src="https://img.shields.io/badge/discord-Red?style=for-the-badge&logo=discord&labelColor=black&color=%23ff0000" alt="discord"/>
+  </a>
+  <a href="https://www.youtube.com/@vampirekevin">
+    <img src="https://img.shields.io/badge/youtube-Red?style=for-the-badge&logo=Youtube&logoColor=red&labelColor=black&color=%23ff0000" alt="Youtube"/>
+  </a>
+</div>
+</div>
 <br>
 
 ##  **About me**
+**Hello, I'm Kevin, a 16-year-old from Egypt, specifically in Sohag.**
+
+- Favorite games: PUBG Mobile, Minecraft, GTA V.
+- Discord servers:
+  - [Vampire Studio](https://discord.gg/tgaAqfWHdA) (+2k Members)
+  - [Vampire E-Sports](https://discord.gg/EvcYu8BtbK) (+11k Members)
+
+---
+<p><strong>MY DISCORD</strong></p>
+
+![Discord](https://discord.c99.nl/widget/theme-2/917579853446926356.png)
+---
+<p><strong>SKILLS</strong></p>
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,vscode,mongodb&perline=7)
 <br>
-- Hello, I'm Kevin, 15 year old, From Egypt specifically in Sohag
-- My favorite hobbies: JavaScript Developer, Web Developer, Content Creator YouTube & TikTok
-- My favorite games: PUBG Mobile
-- I have my own servers Discord:
-- https://discord.gg/tgaAqfWHdA (Vampire Studio +2k Members)
-- https://discord.gg/EvcYu8BtbK (Vampire E-Sports +11k Members)
-
-<br><br>
-
-## **My Skills**
-<br>
-
-<div>
-  
-<br>   
-    
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-<br>
-
------
+## Most Used Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VampireKevin&show_icons=true&theme=dark&locale=en&layout=compact" alt="VampireKevin" /></p>
