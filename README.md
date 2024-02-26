@@ -1,7 +1,7 @@
 <h1 align="center">Welcone 👋, I'm Vampire Kevin</h1>
 
 <div id="header" align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1085737544349663282/1095138558634901664/Kevin.png](https://cdn.discordapp.com/attachments/1085737544349663282/1095138558634901664/Kevin.png?ex=65e662c3&is=65d3edc3&hm=f5b0ec1101f064c3f93d9774cd7b5d2ad9412f74735c41cea6f88b6b6dcbc773&)" width="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1085737544349663282/1095138558634901664/Kevin.png?ex=65e662c3&is=65d3edc3&hm=f5b0ec1101f064c3f93d9774cd7b5d2ad9412f74735c41cea6f88b6b6dcbc773&" width="300"/>
     <p> V<strong>a</strong>mpire <strong>o</strong>n To<strong>p</strong>🧛🦇</p>
   <div id="badges">
 <a href="https://discord.com/users/917579853446926356">
