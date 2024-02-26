@@ -7,7 +7,6 @@
 <br>
 
 ##  **About me**
-
 <br>
 
 - Hello, I'm Kevin, 15 year old, From Egypt specifically in Sohag
@@ -16,10 +15,8 @@
 - I have my own servers Discord:
 - https://discord.gg/tgaAqfWHdA (Vampire Studio +2k Members)
 - https://discord.gg/EvcYu8BtbK (Vampire E-Sports +11k Members)
-  
 
 <br><br>
-
 
 ## **My Skills**
 <br>
