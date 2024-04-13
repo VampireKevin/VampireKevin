@@ -18,12 +18,11 @@
 <br>
 
 #  **About me**
-
-- **Hello, I'm Kevin, a 16-year-old from Egypt, specifically in Sohag.**
-- Favorite games: PUBG Mobile, Minecraft, GTA V, Crossfire, Silkroad.
-- Discord servers:
-  - [Vampire Studio](https://discord.gg/tgaAqfWHdA) (+2k Members)
-  - [Vampire E-Sports](https://discord.gg/EvcYu8BtbK) (+11k Members)
+- 👋 **Hello, I'm Kevin ✝️, a 16-year-old from Egypt, specifically in Sohag.**
+- 🌱 **I am (4) Years experienced in library `Discord.JS`**
+- 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [Maker Bot]
+- 🤖 **Additionally, I'm interested in creating Discord bots full build and working within the Discord ecosystem.**
+- 📫 `What is the best way to contact me?` [Discord](https://discord.com/users/917579853446926356)
 
 ---
 <p><strong>🤞 MY DISCORD PROFILE</strong></p>
