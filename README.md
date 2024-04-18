@@ -1,5 +1,3 @@
-<h1 align="center">Welcome 👋, I'm Kevin Nabil (Vampire Kevin)</h1>
-
 <div id="header" align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&weight=500&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=60&lines=Welcome+To+GitHub+profile.;Discord+Bots+Developer;Front-End+Developer" alt="Typing SVG" /></a>
     <p> S<strong>o</strong>cial <strong>M</strong>e<strong>dia</strong>🧛🦇</p>
@@ -18,7 +16,7 @@
 <br>
 
 #  **About me**
-- 👋 **Hello, I'm Kevin ✝️, a 16-year-old from Egypt, specifically in Sohag.**
+- 👋 **Hello, I'm Kevin Nabil (Vampire Kevin) ✝️, a 16-year-old from Egypt, specifically in Sohag.**
 - 🌱 **I am (4) Years experienced in library `Discord.JS`**
 - 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [Maker Bot]
 - 🤖 **Additionally, I'm interested in creating Discord bots full build and working within the Discord ecosystem.**
