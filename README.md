@@ -18,7 +18,7 @@
 - 🌱 **I am (4) Years experienced in library `Djs`**
 - 🤖 **Additionally, I'm interested in creating Discord bots full build and working within the Discord ecosystem.**
 - 📖 **I have programming certificates. <[HTML](https://i.imgur.com/If41uGT.jpeg) & [JavaScript](https://i.imgur.com/XjzfCK5.jpeg)/>**
-- ⚡️ **I always enjoy developing my skills, and I am currently studying `Full Stack Web Development.`**
+- ⚡️ **I always enjoy developing my skills, and I’m currently learning `Full Stack Web Development.`**
 - 🏆 **2024 Goals: Contribute to more open source projects and upgrading my** </[Vampire](https://discord.com/oauth2/authorize?client_id=1204160509671116860)>
 - 📫 `What is the best way to contact me?` [Discord User](https://discord.com/users/917579853446926356)
 
